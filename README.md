@@ -5,6 +5,7 @@
 * Learning React
 * Shipping web dashboard (In planning)
 * Auto-checkout tools (In planning)
+* Current monitor dev @ Ominous AIO
 <br />
 
 ### Languages and Tools:
