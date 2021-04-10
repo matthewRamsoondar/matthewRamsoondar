@@ -1,11 +1,11 @@
 ## Matthew Ramsoondar 
 
 #### Current Projects:
+* Current developer at Ominous AIO
 * [Google Classroom Discord bot](https://top.gg/bot/756519227304968272 "Top.gg Bot Page") (Pending Approval)
 * Learning React
-* Shipping web dashboard (In planning)
-* Auto-checkout tools (In planning)
-* Current monitor dev @ Ominous AIO
+* Shipping web dashboard (On Hold)
+* Private retail web monitors (completed)
 <br />
 
 ### Languages and Tools:
