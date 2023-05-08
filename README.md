@@ -1,9 +1,4 @@
 ## Matthew Ramsoondar 
-
-#### Current Projects/Work:
-* Current developer at [Ominous AIO](https://twitter.com/ominousAIO)
-* Current developer at [AMZ Gen](https://twitter.com/AMZgen)
-* Learning React
 <br />
 
 ### Languages and Tools:
