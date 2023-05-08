@@ -1,4 +1,7 @@
 ## Matthew Ramsoondar 
+
+Currently studying Computer Science (specialist) and Mathematics (minor) at the University of Toronto.
+Previous developer at @ominousAIO
 <br />
 
 ### Languages and Tools:
