@@ -20,10 +20,6 @@ Previous developer at @ominousAIO
 
 Matthw#8153
 
-<img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38781/preview.svg" alt="Twitter" width="40">
-
-[Twitter](https://twitter.com/Mxtthzw)
-
 <!-- 
 THINGS TO INCLUDE:
 - current projects
